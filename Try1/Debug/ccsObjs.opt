@@ -1,0 +1,1 @@
+"./blink.obj" "./Libraries/BML_Driver/Src/BML_Driver.obj" "./Libraries/BML_Driver/Src/BML_IT.obj" "../lnk_msp430g2553.cmd" -llibc.a 
